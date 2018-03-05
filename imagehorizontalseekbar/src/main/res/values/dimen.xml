@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="required_seekbar_padding" >25dp</dimen>
+    <dimen name="neg_required_seekbar_padding" >-25dp</dimen>
+
+</resources>
